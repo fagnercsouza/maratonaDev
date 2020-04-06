@@ -49,7 +49,7 @@ p, .descricao{
     width: 80%;
     max-width: 880px;
 
-    margin: 40px auto;
+    margin: 40px auto 20px;
     display: flex;
 } 
 
@@ -116,12 +116,12 @@ footer a{
 }
 
 .idea p{
-    margin:  8px 0;
+    margin:  5px 0;
     color: #777;
 }
 
 .idea .descricao{
-    margin: 16px 0;
+    margin: 10px 0;
 }
 
 #modal{
