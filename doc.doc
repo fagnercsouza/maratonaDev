@@ -1,0 +1,30 @@
+// const ideas = [
+//     {
+//         img: "https://image.flaticon.com/icons/svg/2729/2729007.svg",
+//         title: "Curso de Programação",
+//         category: "Estudo",
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+//         url:"http://rocketseat.com.br"
+//     },
+//     {
+//         img: "https://image.flaticon.com/icons/svg/2729/2729032.svg",
+//         title: "Karaokê",
+//         category: "Diversao familia",
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+//         url:"http://rocketseat.com.br"
+//     },
+//     {
+//         img: "https://image.flaticon.com/icons/svg/2729/2729005.svg",
+//         title: "Execicio",
+//         category: "Exercicio",
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+//         url:"http://rocketseat.com.br"
+//     },
+//     {
+//         img: "https://image.flaticon.com/icons/svg/2729/2729027.svg",
+//         title: "Meditacao",
+//         category: "Meditacao",
+//         description: "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+//         url:"http://rocketseat.com.br"
+//     }
+// ];
